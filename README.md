@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Rinka Dickson
 
-<!--
-**Dickson003/Dickson003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent IT graduate from Masinde Muliro University of Science and Technology (MMUST)  
+💻 Full-stack developer with experience in React, Node.js, Java, and MySQL  
+🌍 Passionate about building impactful solutions in healthcare and business  
+🧠 Certified in Cybersecurity (Cisco), Graphic Design, Virtual Assistance & Online Writing  
+🤝 Member of Ajira Digital Club | Open to collaborations and tech opportunities
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AfyaConnect**  
+  A telemedicine platform that connects patients with doctors based on specialization.  
+  _Tech: React, Node.js, MongoDB_
+
+- **Sales Management System**  
+  A desktop app for managing sales, inventory, and customer records.  
+  _Tech: Java, MySQL_
+
+- **Coffee Shop App**  
+  A simple Java-based app for handling customer orders in a café setting.
+
+## 📫 Let's Connect
+- Email: rinkadickson82@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/dickson-rinka-ba7750274
+- GitHub: [github.com/Dickson003](https://github.com/Dickson003)
+
+---
