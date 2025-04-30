@@ -10,7 +10,7 @@
 
 - **AfyaConnect**  
   A telemedicine platform that connects patients with doctors based on specialization.  
-  _Tech: React, Node.js, MongoDB_
+  _Tech: React, Node.js, PostgreSQL_
 
 - **Sales Management System**  
   A desktop app for managing sales, inventory, and customer records.  
